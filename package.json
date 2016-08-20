@@ -1,0 +1,25 @@
+{
+  "name": "profanus-api",
+  "version": "0.0.1",
+  "description": "API for the profanus website",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/profanus/profanus-api.git"
+  },
+  "keywords": [
+    "profanus",
+    "guild",
+    "website",
+    "api"
+  ],
+  "author": "Jouke van der Maas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/profanus/profanus-api/issues"
+  },
+  "homepage": "https://github.com/profanus/profanus-api#readme"
+}
